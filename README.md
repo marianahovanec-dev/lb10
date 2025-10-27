@@ -6,7 +6,7 @@
 
 
 ## 💻 Код  
-\\\
+```
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -84,7 +84,7 @@ int main() {
 
     return 0;
 }
-\\\
+```
 
 ## 📊 Приклад виконання  
 <img width="576" height="262" alt="image" src="https://github.com/user-attachments/assets/70ed6cf4-3ec3-4bee-a4b5-9e9ee891a34c" />
